@@ -60,9 +60,9 @@ if(mi==ma)
 }
 printf("Сума --- %d\n\n",d);
 printf("%d перший нуль\n",max);
-printf("%d ID2 перший нуль\n\n",ma);
+printf("%d ID перший нуль\n\n",ma);
 printf("%d Останній нуль\n",min);
-printf("%d ID останнього нуля\n",mi);
+printf("%d ID2 останнього нуля\n",mi);
 
     return 0;
 }
