@@ -5,7 +5,8 @@
 int main()
 {
     int col,ma,mi,d,w,t;
-    int a[col]; 
+    int a[col];
+    printf("Введіть кількість елементів масиву\n");
     scanf("%d", &col);
 for(int i = 0; i < col; i++) //введення данних
 {
